@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Computer Architecture Course Blog</title>
+ <link href="http://hazirguo.github.com/ca2014/blog/atom.xml" rel="self"/>
+ <link href="http://hazirguo.github.com/blog"/>
+ <updated>2014-02-23T11:50:41+08:00</updated>
+ <id>http://hazirguo.github.com/ca2014/blog</id>
+ <author>
+   <name>Hazir Guo</name>
+   <email>hazirguo@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>计算机体系结构课程主页上线！</title>
+   <link href="http://hazirguo.github.io/ca2014/blog/20140221/ca-course-webpage-release.html"/>
+   <updated>2014-02-21T00:00:00+08:00</updated>
+   <id>http://hazirguo.github.io/ca2014/blog/20140221/ca-course-webpage-release</id>
+   <content type="html">&lt;p&gt;计算机体系结构课程&lt;a href=&quot;/index.html&quot;&gt;主页&lt;/a&gt;今日正式上线，欢迎在本博客下方评论中反馈你所发现网站的 bug ，以及对本站建设提出你的建议和意见。&lt;/p&gt;
+
+&lt;p&gt;本博客旨在提供关于本课程的信息服务和课外知识交流，如果你有好的学习心得，或者对某个知识点有独到的见解，欢迎与大家分享，你可以通过下面两种渠道投稿：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;发邮件至助教&lt;a href=&quot;mailto:guohl@mail.ustc.edu.cn&quot;&gt;邮箱&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;通过 pull request 到课程网站 &lt;a href=&quot;https://github.com/hazirguo/ca2014/&quot;&gt;github page&lt;/a&gt; 上&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;本博客已全文输出，你可以通过各种 RSS 阅读器&lt;a href=&quot;/blog/atom.xml&quot;&gt;订阅&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;再次感谢对本课程的支持，如对课程教学的建议，请在&lt;a href=&quot;&quot;&gt;这篇文章&lt;/a&gt;后评论，我们会及时向老师反馈。&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
